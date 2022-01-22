@@ -2,32 +2,32 @@
   {
     "full_name": "WordPress/Documentation-Issue-Tracker",
     "stargazers_count": 14,
-    "open_issues_count": 59,
-    "forks_count": 3
+    "open_issues_count": 55,
+    "forks_count": 4
   },
   {
     "full_name": "Automattic/_s",
-    "stargazers_count": 10479,
-    "open_issues_count": 54,
-    "forks_count": 3121
+    "stargazers_count": 10482,
+    "open_issues_count": 55,
+    "forks_count": 3122
   },
   {
     "full_name": "jeffreyvr/tailpress",
-    "stargazers_count": 478,
+    "stargazers_count": 481,
     "open_issues_count": 1,
-    "forks_count": 74
+    "forks_count": 77
   },
   {
     "full_name": "WordPress/pattern-directory",
     "stargazers_count": 68,
-    "open_issues_count": 39,
+    "open_issues_count": 41,
     "forks_count": 17
   },
   {
     "full_name": "kr1sp1n/awesome-gemini",
-    "stargazers_count": 542,
-    "open_issues_count": 8,
-    "forks_count": 65
+    "stargazers_count": 543,
+    "open_issues_count": 9,
+    "forks_count": 66
   },
   {
     "full_name": "module-federation/microlib-examples",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "ryersondmp/sa11y",
-    "stargazers_count": 108,
+    "stargazers_count": 109,
     "open_issues_count": 5,
     "forks_count": 15
   },
@@ -49,63 +49,63 @@
   },
   {
     "full_name": "trekhleb/learn-python",
-    "stargazers_count": 11700,
+    "stargazers_count": 11716,
     "open_issues_count": 11,
-    "forks_count": 1869
+    "forks_count": 1872
   },
   {
     "full_name": "WordPress/theme-experiments",
     "stargazers_count": 392,
     "open_issues_count": 53,
-    "forks_count": 137
+    "forks_count": 139
   },
   {
     "full_name": "geekcomputers/Python",
-    "stargazers_count": 24525,
-    "open_issues_count": 217,
-    "forks_count": 10632
+    "stargazers_count": 24543,
+    "open_issues_count": 221,
+    "forks_count": 10637
   },
   {
     "full_name": "WordPress/wordpress-develop",
-    "stargazers_count": 1179,
-    "open_issues_count": 549,
-    "forks_count": 1039
+    "stargazers_count": 1177,
+    "open_issues_count": 555,
+    "forks_count": 1042
   },
   {
     "full_name": "WordPress/WordPress",
-    "stargazers_count": 15850,
+    "stargazers_count": 15858,
     "open_issues_count": 2,
-    "forks_count": 10783
+    "forks_count": 10787
   },
   {
     "full_name": "joshbuchea/HEAD",
-    "stargazers_count": 28968,
-    "open_issues_count": 18,
-    "forks_count": 1966
+    "stargazers_count": 28969,
+    "open_issues_count": 19,
+    "forks_count": 1971
   },
   {
     "full_name": "Automattic/themes",
-    "stargazers_count": 434,
-    "open_issues_count": 1297,
-    "forks_count": 227
+    "stargazers_count": 440,
+    "open_issues_count": 1307,
+    "forks_count": 228
   },
   {
     "full_name": "concrete-utopia/utopia",
-    "stargazers_count": 3314,
-    "open_issues_count": 184,
-    "forks_count": 113
+    "stargazers_count": 3320,
+    "open_issues_count": 187,
+    "forks_count": 115
   },
   {
     "full_name": "snowpackjs/astro",
-    "stargazers_count": 9809,
-    "open_issues_count": 133,
-    "forks_count": 469
+    "stargazers_count": 9964,
+    "open_issues_count": 127,
+    "forks_count": 477
   },
   {
     "full_name": "arabold/serverless-react-boilerplate",
-    "stargazers_count": 124,
+    "stargazers_count": 125,
     "open_issues_count": 1,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "cassidoo/pokemon-feature-flags",
@@ -121,39 +121,39 @@
   },
   {
     "full_name": "takayukister/contact-form-7",
-    "stargazers_count": 144,
-    "open_issues_count": 8,
-    "forks_count": 74
+    "stargazers_count": 149,
+    "open_issues_count": 6,
+    "forks_count": 77
   },
   {
     "full_name": "WordPress/gutenberg",
-    "stargazers_count": 7450,
-    "open_issues_count": 4412,
-    "forks_count": 2711
+    "stargazers_count": 7455,
+    "open_issues_count": 4409,
+    "forks_count": 2718
   },
   {
     "full_name": "EbookFoundation/free-programming-books",
-    "stargazers_count": 219367,
+    "stargazers_count": 219584,
     "open_issues_count": 36,
-    "forks_count": 46946
+    "forks_count": 46976
   },
   {
     "full_name": "prismicio/gatsby-blog",
     "stargazers_count": 35,
     "open_issues_count": 1,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "freeCodeCamp/how-to-contribute-to-open-source",
-    "stargazers_count": 6031,
-    "open_issues_count": 66,
+    "stargazers_count": 6042,
+    "open_issues_count": 67,
     "forks_count": 1323
   },
   {
     "full_name": "KnisterPeter/vscode-commitizen",
-    "stargazers_count": 194,
+    "stargazers_count": 196,
     "open_issues_count": 4,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "codebushi/gatsby-starter-dimension",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "sveltejs/kit",
-    "stargazers_count": 6567,
-    "open_issues_count": 381,
-    "forks_count": 534
+    "stargazers_count": 6616,
+    "open_issues_count": 375,
+    "forks_count": 538
   },
   {
     "full_name": "tc39/proposals",
-    "stargazers_count": 14619,
-    "open_issues_count": 5,
+    "stargazers_count": 14640,
+    "open_issues_count": 6,
     "forks_count": 634
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 12876,
-    "open_issues_count": 360,
+    "stargazers_count": 12882,
+    "open_issues_count": 353,
     "forks_count": 1165
   }
 ]
